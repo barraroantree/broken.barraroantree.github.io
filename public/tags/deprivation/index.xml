@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Deprivation on Barra Roantree</title>
+    <link>https://barra.roantree.ie/tags/deprivation/</link>
+    <description>Recent content in Deprivation on Barra Roantree</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://barra.roantree.ie/tags/deprivation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Poverty, income inequality and living standards in Ireland: Third annual report</title>
+      <link>https://barra.roantree.ie/paper/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://barra.roantree.ie/paper/</guid>
+      <description>This report is the third from an ESRI research programme funded by Community Foundation Ireland, which seeks to address gaps in our knowledge and understanding of poverty, income inequality and living standards in Ireland.</description>
+    </item>
+    
+  </channel>
+</rss>
