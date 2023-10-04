@@ -6,16 +6,7 @@
     <description>Recent content in Tags on Barra Roantree</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://barra.roantree.ie/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>metascience</title>
-      <link>https://barra.roantree.ie/tags/metascience/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://barra.roantree.ie/tags/metascience/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Sun, 16 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://barra.roantree.ie/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beveridge curve</title>
       <link>https://barra.roantree.ie/tags/beveridge-curve/</link>
@@ -118,63 +109,9 @@
     <item>
       <title>job rationing</title>
       <link>https://barra.roantree.ie/tags/job-rationing/</link>
-      <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://barra.roantree.ie/tags/job-rationing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>state dependence</title>
-      <link>https://barra.roantree.ie/tags/state-dependence/</link>
-      <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://barra.roantree.ie/tags/state-dependence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>unemployment</title>
-      <link>https://barra.roantree.ie/tags/unemployment/</link>
-      <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://barra.roantree.ie/tags/unemployment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>wage rigidity</title>
-      <link>https://barra.roantree.ie/tags/wage-rigidity/</link>
-      <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://barra.roantree.ie/tags/wage-rigidity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>optimal control</title>
-      <link>https://barra.roantree.ie/tags/optimal-control/</link>
-      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://barra.roantree.ie/tags/optimal-control/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>social psychology</title>
-      <link>https://barra.roantree.ie/tags/social-psychology/</link>
-      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://barra.roantree.ie/tags/social-psychology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>wealth in the utility</title>
-      <link>https://barra.roantree.ie/tags/wealth-in-the-utility/</link>
-      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://barra.roantree.ie/tags/wealth-in-the-utility/</guid>
       <description></description>
     </item>
     
@@ -188,6 +125,15 @@
     </item>
     
     <item>
+      <title>unemployment</title>
+      <link>https://barra.roantree.ie/tags/unemployment/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://barra.roantree.ie/tags/unemployment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>unemployment insurance</title>
       <link>https://barra.roantree.ie/tags/unemployment-insurance/</link>
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
@@ -197,20 +143,29 @@
     </item>
     
     <item>
-      <title>New Keynesian model</title>
-      <link>https://barra.roantree.ie/tags/new-keynesian-model/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <title>wage rigidity</title>
+      <link>https://barra.roantree.ie/tags/wage-rigidity/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://barra.roantree.ie/tags/new-keynesian-model/</guid>
+      <guid>https://barra.roantree.ie/tags/wage-rigidity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>differential equations</title>
       <link>https://barra.roantree.ie/tags/differential-equations/</link>
-      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
       
       <guid>https://barra.roantree.ie/tags/differential-equations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>optimal control</title>
+      <link>https://barra.roantree.ie/tags/optimal-control/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://barra.roantree.ie/tags/optimal-control/</guid>
       <description></description>
     </item>
     
