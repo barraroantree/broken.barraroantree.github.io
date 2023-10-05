@@ -2,146 +2,200 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://barra.roantree.ie/</loc>
+    <loc>https://barraroantree.github.io/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/tags/deprivation/</loc>
+    <loc>https://barraroantree.github.io/tags/deprivation/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/tags/inequality/</loc>
+    <loc>https://barraroantree.github.io/tags/inequality/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/policy/</loc>
+    <loc>https://barraroantree.github.io/policy/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/tags/poverty/</loc>
+    <loc>https://barraroantree.github.io/tags/poverty/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/paper/</loc>
+    <loc>https://barraroantree.github.io/paper/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/tags/</loc>
+    <loc>https://barraroantree.github.io/tags/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/design/</loc>
+    <loc>https://barraroantree.github.io/design/</loc>
     <lastmod>2023-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/d1/</loc>
+    <loc>https://barraroantree.github.io/d1/</loc>
     <lastmod>2023-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/d2/</loc>
+    <loc>https://barraroantree.github.io/d2/</loc>
     <lastmod>2023-09-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/d3/</loc>
+    <loc>https://barraroantree.github.io/d3/</loc>
     <lastmod>2023-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/tags/beveridge-curve/</loc>
+    <loc>https://barraroantree.github.io/12/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://barraroantree.github.io/tags/metascience/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://barraroantree.github.io/papers/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://barraroantree.github.io/tags/beveridge-curve/</loc>
     <lastmod>2023-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/tags/business-cycles/</loc>
+    <loc>https://barraroantree.github.io/tags/business-cycles/</loc>
     <lastmod>2023-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/c5/</loc>
+    <loc>https://barraroantree.github.io/c5/</loc>
     <lastmod>2023-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/courses/</loc>
+    <loc>https://barraroantree.github.io/courses/</loc>
     <lastmod>2023-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/tags/economic-slack/</loc>
+    <loc>https://barraroantree.github.io/tags/economic-slack/</loc>
     <lastmod>2023-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/tags/efficiency/</loc>
+    <loc>https://barraroantree.github.io/tags/efficiency/</loc>
     <lastmod>2023-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/tags/government-spending/</loc>
+    <loc>https://barraroantree.github.io/tags/government-spending/</loc>
     <lastmod>2023-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/tags/matching-model/</loc>
+    <loc>https://barraroantree.github.io/tags/matching-model/</loc>
     <lastmod>2023-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/tags/monetary-policy/</loc>
+    <loc>https://barraroantree.github.io/tags/monetary-policy/</loc>
     <lastmod>2023-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/tags/price-rigidity/</loc>
+    <loc>https://barraroantree.github.io/tags/price-rigidity/</loc>
     <lastmod>2023-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/tags/stabilization-policy/</loc>
+    <loc>https://barraroantree.github.io/tags/stabilization-policy/</loc>
     <lastmod>2023-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/tags/sufficient-statistics/</loc>
+    <loc>https://barraroantree.github.io/tags/sufficient-statistics/</loc>
     <lastmod>2023-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/tags/unemployment-gap/</loc>
+    <loc>https://barraroantree.github.io/tags/unemployment-gap/</loc>
     <lastmod>2023-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/d5/</loc>
+    <loc>https://barraroantree.github.io/d5/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/c2/</loc>
+    <loc>https://barraroantree.github.io/tags/job-rationing/</loc>
+    <lastmod>2023-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://barraroantree.github.io/tags/state-dependence/</loc>
+    <lastmod>2023-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://barraroantree.github.io/tags/unemployment/</loc>
+    <lastmod>2023-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://barraroantree.github.io/tags/wage-rigidity/</loc>
+    <lastmod>2023-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://barraroantree.github.io/14/</loc>
+    <lastmod>2023-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://barraroantree.github.io/13/</loc>
+    <lastmod>2023-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://barraroantree.github.io/c2/</loc>
     <lastmod>2022-12-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/tags/job-rationing/</loc>
+    <loc>https://barraroantree.github.io/7/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://barraroantree.github.io/tags/optimal-control/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://barraroantree.github.io/tags/social-psychology/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://barraroantree.github.io/tags/wealth-in-the-utility/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://barraroantree.github.io/tags/multiplier/</loc>
     <lastmod>2022-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/tags/multiplier/</loc>
+    <loc>https://barraroantree.github.io/c1/</loc>
     <lastmod>2022-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/tags/unemployment/</loc>
+    <loc>https://barraroantree.github.io/tags/unemployment-insurance/</loc>
     <lastmod>2022-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/c1/</loc>
-    <lastmod>2022-03-15T00:00:00+00:00</lastmod>
+    <loc>https://barraroantree.github.io/9/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/tags/unemployment-insurance/</loc>
-    <lastmod>2022-03-15T00:00:00+00:00</lastmod>
+    <loc>https://barraroantree.github.io/tags/new-keynesian-model/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/tags/wage-rigidity/</loc>
-    <lastmod>2022-03-15T00:00:00+00:00</lastmod>
+    <loc>https://barraroantree.github.io/8/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/c4/</loc>
+    <loc>https://barraroantree.github.io/tags/differential-equations/</loc>
+    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://barraroantree.github.io/11/</loc>
+    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://barraroantree.github.io/6/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://barraroantree.github.io/10/</loc>
+    <lastmod>2018-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://barraroantree.github.io/c4/</loc>
     <lastmod>2018-12-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/tags/differential-equations/</loc>
+    <loc>https://barraroantree.github.io/5/</loc>
+    <lastmod>2018-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://barraroantree.github.io/4/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://barraroantree.github.io/3/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://barraroantree.github.io/2/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://barraroantree.github.io/c3/</loc>
     <lastmod>2013-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/c3/</loc>
-    <lastmod>2013-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://barra.roantree.ie/tags/optimal-control/</loc>
-    <lastmod>2013-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://barra.roantree.ie/tags/climate-policy/</loc>
+    <loc>https://barraroantree.github.io/tags/climate-policy/</loc>
     <lastmod>2012-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/tags/environmental-taxes-and-subsidies/</loc>
+    <loc>https://barraroantree.github.io/tags/environmental-taxes-and-subsidies/</loc>
     <lastmod>2012-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/papers/</loc>
+    <loc>https://barraroantree.github.io/paper/</loc>
     <lastmod>2012-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/paper/</loc>
+    <loc>https://barraroantree.github.io/tags/taxation/</loc>
     <lastmod>2012-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/tags/taxation/</loc>
-    <lastmod>2012-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://barra.roantree.ie/tags/decomposition/</loc>
+    <loc>https://barraroantree.github.io/tags/decomposition/</loc>
     <lastmod>1970-01-01T01:33:42+01:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/tags/gender-inequality/</loc>
+    <loc>https://barraroantree.github.io/tags/gender-inequality/</loc>
     <lastmod>1970-01-01T01:33:42+01:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/1/</loc>
+    <loc>https://barraroantree.github.io/1/</loc>
     <lastmod>1970-01-01T01:33:42+01:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/tags/ireland/</loc>
+    <loc>https://barraroantree.github.io/tags/ireland/</loc>
     <lastmod>1970-01-01T01:33:42+01:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/tags/tax-benefit-system/</loc>
+    <loc>https://barraroantree.github.io/tags/tax-benefit-system/</loc>
     <lastmod>1970-01-01T01:33:42+01:00</lastmod>
   </url><url>
-    <loc>https://barra.roantree.ie/location/</loc>
+    <loc>https://barraroantree.github.io/location/</loc>
   </url><url>
-    <loc>https://barra.roantree.ie/officehours/</loc>
+    <loc>https://barraroantree.github.io/officehours/</loc>
   </url>
 </urlset>
