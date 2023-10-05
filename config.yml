@@ -66,8 +66,8 @@ params:
               url: /papers/
             - name: Courses
               url: /courses/
-            - name: Design
-              url: /design/
+            - name: Policy
+              url: /policy/
             - name: Newsletter
               url: https://howtotaxandspendit.substack.com/
     socialIcons:
